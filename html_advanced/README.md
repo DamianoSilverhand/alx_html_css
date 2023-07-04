@@ -1,3 +1,5 @@
+![ALX Logo](https://intranet.alxswe.com/assets/holberton-logo-full-alx-d053727941512ebe04b797ca87d81a195004e9ff2d8a6aedf4004c5365cf8944.png)
+
 # HTML Advanced Exercise Solutions
 
 This repository contains my solutions to the HTML Advanced exercise. In this project, I have completed the following tasks and learned the associated learning objectives:
